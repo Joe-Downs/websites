@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<data>
+  <player>
+    <name><!--Str--></name>
+    <vehicle><!--Str--></vehicle>
+    <group letter = "">
+      <round1><!--Int--></round1>
+      <round2><!--Int--></round2>
+      <round3><!--Int--></round3>
+      <round4><!--Int--></round4>
+      <round5><!--Int--></round5>
+      <!--....................-->
+      <roundN><!--Int--></roundN>
+    </group>
+    <group letter = ""><!--IF user advances to next round(s)-->
+      <round1><!--Int--></round1>
+      <round2><!--Int--></round2>
+      <round3><!--Int--></round3>
+      <round4><!--Int--></round4>
+      <round5><!--Int--></round5>
+      <!--....................-->
+      <roundN><!--Int--></roundN>
+    </group>
+    <finalScore><!--Int--></finalScore>
+  </player>
+</data>

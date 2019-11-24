@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<data>
+  <player name = "">
+    <rank><!--Int--></rank>
+    <leaguePerformance>
+      <CDL1><!--Int--></CDL1>
+      <CDL2><!--Int--></CDL2>
+      <CDL3><!--Int--></CDL3>
+      <CDL4><!--Int--></CDL4>
+      <CDL5><!--Int--></CDL5>
+      <CDL6><!--Int--></CDL6>
+      <CDL7><!--Int--></CDL7>
+      <CDL8><!--Int--></CDL8>
+      <CDL9><!--Int--></CDL9>
+      <CDL10><!--Int--></CDL10>
+    </leaguePerformance>
+    <totalPoints><!--Int--></totalPoints>
+    <gold><!--Int--></gold>
+    <silver><!--Int--></silver>
+    <bronze><!--Int--></bronze>
+    <podiums><!--Int--></podiums>
+    <racesTotal><!--Int--></racesTotal>
+    <racesWon><!--Int--></racesWon>
+    <racesWonPercentage><!--Int--></racesWonPercentage>
+    <tournamentsTotal><!--Int--></tournamentsTotal>
+    <tournamentsWon><!--Int--></tournamentsWon>
+    <tournamentsWonPercentage><!--Int--></tournamentsWonPercentage>
+    <status><!--Str--></status>
+  </player>
+</data>
