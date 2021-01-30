@@ -1,0 +1,12 @@
+$alignment: center;
+$padding: 10em;
+
+h1{
+    text-align: $alignment;
+}
+
+p{
+    margin-left: $padding;
+    margin-right: $padding;
+    text-align: $alignment;
+}
