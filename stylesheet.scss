@@ -1,12 +1,48 @@
 $alignment: center;
-$padding: 10em;
+$padding: 0em;
+$body-font: Helvetica, sans-serif;
+$body-size: 28px;
+$h1-font: Helvetica, sans-serif;
+$h1-size: 58px;
+
+.center{
+    margin: 0em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: fit-content;
+    height: fit-content;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.container{
+    position: absolute;
+    height: 100%;
+    width: 100%
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    max-height: 100%;
+    background: lightgray;
+    float: left;
+    width: 100%;
+}
 
 h1{
     text-align: $alignment;
+    font-family: $h1-font;
+    font-size: $h1-size
+    
 }
 
 p{
     margin-left: $padding;
     margin-right: $padding;
     text-align: $alignment;
+    font-family: $body-font;
+    font-size: $body-size;
 }
