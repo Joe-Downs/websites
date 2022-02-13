@@ -1,0 +1,32 @@
+ ______  __                       __
+/\  _  \/\ \                     /\ \__      /'\_/`\
+\ \ \L\ \ \ \____    ___   __  __\ \ ,_\    /\      \
+ \ \  __ \ \ '__`\  / __`\/\ \/\ \\ \ \/    \ \ \__\ \  /'__`\
+  \ \ \/\ \ \ \L\ \/\ \L\ \ \ \_\ \\ \ \_    \ \ \_/\ \/\  __/
+   \ \_\ \_\ \_,__/\ \____/\ \____/ \ \__\    \ \_\\ \_\ \____\
+    \/_/\/_/\/___/  \/___/  \/___/   \/__/     \/_/ \/_/\/____/
+
+# Bio
+Hello there! My name's Joe, and online I go by Doge(OfDisaster). I am a
+3rd-year Computer Science and Engineering student.
+
+# Hobbies
+Two of my biggest interests revolve around the computer: programming and video
+games. Some games I enjoy playing:
+* Team Fortress 2
+* Minecraft
+* Slime Rancher
+* Stardew Valley
+* Portal 2
+* ...and many more!
+=> https://steamcommunity.com/id/dogeofdisaster Check out my Steam profile!
+
+The rest of my time, I'm usually coding (and doing other Computer Science
+related things. Right now, I mostly just have one main project: a Discord bot
+called COLOR*IZ. In brief, it allows regular users to assign their own custom
+colors - without needing an admin to make dedicated color roles beforehand.
+=> https://github.com/Joe-Downs/coloriz COLOR*IZ's repo on GitHub
+
+# My Other Links
+
+
