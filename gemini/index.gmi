@@ -8,10 +8,15 @@
     '\/__//__/  \/____/\/____/\/____/\/___/  \/_/\/_/\/_/\/____/ \/_/
 ```
 
-Hi Mallow! <3
+# Welcome to my Gemini page!
+A friend of mine introduced me to this and it's really neat! So I'm gonna have
+lots of fun tinkering with this. (Hi Mallow! <3)
 
 My favorite things:
 * Mallow
+=> gemini://tsuntsun.cities.yesterweb.org/ Check her site out!
 * Cuties (See Above)
 
-
+# Directory
+=> about.gmi About Me
+=> tao.gmi The Tao of Programming, now in Gemini!
