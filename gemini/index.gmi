@@ -20,3 +20,20 @@ My favorite things:
 # Directory
 => about.gmi About Me
 => tao.gmi The Tao of Programming, now in Gemini!
+
+# About This Site
+### What the heck is that name?
+My domain is meant to be read as one word: gogobebe. It's a reference to a KPop
+song by the girl group MAMAMOO. It's title being... "gogobebe" (I highly
+recommend it!) I usually pronounce my domain just as it's said in the song.
+=> https://youtu.be/Cp56JdkmE9s MAMAMOO - gogobebe
+
+### What does it run on?
+The 'machine' and OS is a cloud instance running Ubuntu 21.10. I went with
+molly-brown as my Gemini server because it was recommended by others. It's the
+only one I've used, but so far it's working well enough. (Fingers crossed!)
+=> https://ubuntu.com/ Ubuntu
+=> https://tildegit.org/solderpunk/molly-brown molly-brown
+
+
+=> tao.gmi Thus spake the Master Programmer: "Time for you to leave."
