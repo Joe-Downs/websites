@@ -32,8 +32,8 @@ My favorite things:
 - Cuties (See Above)
 
 ** Directory
-- [[about.md][About Me]]
-- [[tao.md][The Tao of Programming]]
+- [[./about.org][About Me]]
+- [[./tao.org][The Tao of Programming]]
 
 ** About This Site
 *** What the heck is that name?
@@ -49,4 +49,4 @@ My favorite things:
     I've used, but so far it's working well enough. (Fingers crossed!) As for
     HTTP, I use good ol' [[https://httpd.apache.org/][Apache]] because that's what I have the most exposure to.
 
-[[tao.md][Thus spake the Master Programmer: "Time for you to leave."]]
+[[./tao.org][Thus spake the Master Programmer: "Time for you to leave."]]
