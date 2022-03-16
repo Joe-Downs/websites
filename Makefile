@@ -1,7 +1,10 @@
+# Replace any ./*.org links with ./*.html links
+html_sed = sed -E 's/(\.\/\S*\.)org/\1html/'
+html_out_css_template = -t html -c css/retro.css --template=template.html
 html :
-	pandoc index.org -o index.html -c css/retro.css --template=template.html --metadata title="Welcome!"
-	pandoc about.org -o about.html -c css/retro.css --template=template.html --metadata title="About Me"
-	pandoc tao.org -o tao.html -c css/retro.css --template=template.html --metadata title="The Tao of Programming"
+	pandoc index.org $(html_out_css_template) --metadata title="Welcome!" | $(html_sed) > index.html
+	pandoc about.org $(html_out_css_template) --metadata title="About Me" | $(html_sed) > about.html
+	pandoc tao.org $(html_out_css_template) --metadata title="The Tao of Programming" | $(html_sed) > tao.html
 
 # Pandoc escapes single and double quotes and asterisks when converting to
 # Markdown... which translates to literal backslashes in gemtext, but doesn't
