@@ -1,3 +1,7 @@
+:root {
+    color-scheme: dark;
+}
+
 pre,
 code {
   font-family: Menlo, Monaco, "Courier New", monospace;
