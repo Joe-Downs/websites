@@ -38,9 +38,8 @@ My favorite things:
 ** About This Site
 *** What the heck is that name?
     My domain is meant to be read as one word: gogobebe. It's a reference to a
-    KPop song by the girl group MAMAMOO. It's title being... "[[https://youtu.be/Cp56JdkmE9s][gogobebe]]" (I
-    highly recommend it!) I usually pronounce my domain just as it's said in the
-    song.
+    KPop song by the girl group MAMAMOO. Its title being... "[[https://youtu.be/Cp56JdkmE9s][gogobebe]]" (I highly
+    recommend it!) I usually pronounce my domain just as it's said in the song.
 
 *** What does it run on?
     It is a cloud instance running [[https://ubuntu.com/][Ubuntu 21.10]]. My site operates as both a
