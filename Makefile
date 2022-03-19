@@ -1,6 +1,6 @@
 # Replace any ./*.org links with ./*.html links
 html_sed = sed -E 's/(\.\/\S*\.)org/\1html/'
-html_out_css_template = -t html -c css/retro.css --template=template.html
+html_out_css_template = -t html -c css/retro.css --template=template.html --include-after-body=footer.html
 html :
 	pandoc index.org $(html_out_css_template) --metadata title="Welcome!" | $(html_sed) > index.html
 	pandoc about.org $(html_out_css_template) --metadata title="About Me" | $(html_sed) > about.html
