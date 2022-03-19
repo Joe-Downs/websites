@@ -15,21 +15,12 @@
   Two of my biggest interests revolve around the computer: programming and video
   games. However, I also enjoy listening to music and photography.
 
-** Gaming
-   Some games I enjoy playing:
-   - Team Fortress 2
-   - Minecraft
-   - Slime Rancher
-   - Stardew Valley
-   - Portal 2
-   - ...and many more!
-   - [[https://steamcommunity.com/id/dogeofdisaster][My Steam profile!]]
-
 ** Coding
-   The rest of my time, I'm usually coding (and doing other Computer Science
-   related things. Right now, I mostly just have one main project: a Discord bot
-   called [[https://github.com/Joe-Downs/coloriz][COLOR*IZ]]. In brief, it allows regular users to assign their own custom
-   colors - without needing an admin to make dedicated color roles beforehand.
+   If I'm not doing schoolwork, I'm usually coding or doing other Computer
+   Science related things. Right now, I mostly just have one main project: a
+   Discord bot called [[https://github.com/Joe-Downs/coloriz][COLOR*IZ]]. In brief, it allows regular users to assign
+   their own custom colors - without needing an admin to make dedicated color
+   roles beforehand.
 
 *** Tools
     For everything related to coding, I use [[https://www.gnu.org/software/emacs/][GNU Emacs]]. Frankly, it's
@@ -49,6 +40,16 @@
     use and customize. And best of all: it's *FOSS*. I'm a big believer in
     FOSS. Not only is it cheaper than alternatives, it can often be better -
     both privacy-wise and performance / features.
+
+** Gaming
+   Some games I enjoy playing:
+   - Team Fortress 2
+   - Minecraft
+   - Slime Rancher
+   - Stardew Valley
+   - Portal 2
+   - ...and many more!
+   - [[https://steamcommunity.com/id/dogeofdisaster][My Steam profile!]]
 
 * My Other Links
   To be filled...
