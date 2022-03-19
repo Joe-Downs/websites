@@ -5,6 +5,7 @@ html :
 	pandoc index.org $(html_out_css_template) --metadata title="Welcome!" | $(html_sed) > index.html
 	pandoc about.org $(html_out_css_template) --metadata title="About Me" | $(html_sed) > about.html
 	pandoc tao.org $(html_out_css_template) --metadata title="The Tao of Programming" | $(html_sed) > tao.html
+	pandoc credit.org $(html_out_css_template) --metadata title="Credits" | $(html_sed) > credit.html
 
 # Pandoc escapes single and double quotes and asterisks when converting to
 # Markdown... which translates to literal backslashes in gemtext, but doesn't
