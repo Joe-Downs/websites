@@ -13,19 +13,42 @@
 
 * Hobbies
   Two of my biggest interests revolve around the computer: programming and video
-  games. Some games I enjoy playing:
-  - Team Fortress 2
-  - Minecraft
-  - Slime Rancher
-  - Stardew Valley
-  - Portal 2
-  - ...and many more!
-  - [[https://steamcommunity.com/id/dogeofdisaster][My Steam profile!]]
+  games. However, I also enjoy listening to music and photography.
 
-  The rest of my time, I'm usually coding (and doing other Computer Science
-  related things. Right now, I mostly just have one main project: a Discord bot
-  called [[https://github.com/Joe-Downs/coloriz][COLOR*IZ]]. In brief, it allows regular users to assign their own custom
-  colors - without needing an admin to make dedicated color roles beforehand.
+** Gaming
+   Some games I enjoy playing:
+   - Team Fortress 2
+   - Minecraft
+   - Slime Rancher
+   - Stardew Valley
+   - Portal 2
+   - ...and many more!
+   - [[https://steamcommunity.com/id/dogeofdisaster][My Steam profile!]]
+
+** Coding
+   The rest of my time, I'm usually coding (and doing other Computer Science
+   related things. Right now, I mostly just have one main project: a Discord bot
+   called [[https://github.com/Joe-Downs/coloriz][COLOR*IZ]]. In brief, it allows regular users to assign their own custom
+   colors - without needing an admin to make dedicated color roles beforehand.
+
+*** Tools
+    For everything related to coding, I use [[https://www.gnu.org/software/emacs/][GNU Emacs]]. Frankly, it's
+    amazing. The amount of stuff it can do is mind-boggling, and I don't even
+    use probably half of that! "Feature creep," you say? Maybe. However, it is
+    the best operating system, but could use a nice text editor.
+
+    In all seriousness, its customizability is outstanding. With sites like
+    [[https://melpa.org/][MELPA]], you can find packages for nearly anything. From games to git
+    porcelains - like [[https://melpa.org/#/magit][Magit]]. Magit... That's gotta be the coolest thing I've
+    seen recently. I started (and did) all my git stuff on the commandline, but
+    doing it right in Emacs is just *so nice*. If you use Emacs and haven't used
+    it, I highly recommend it.
+
+    If you haven't heard of Emacs before, I highly suggest checking it out. It
+    may not be as fancy as Visual Studio, but in my opinion it is much easier to
+    use and customize. And best of all: it's *FOSS*. I'm a big believer in
+    FOSS. Not only is it cheaper than alternatives, it can often be better -
+    both privacy-wise and performance / features.
 
 * My Other Links
   To be filled...
