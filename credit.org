@@ -1,0 +1,14 @@
+#+BEGIN_EXAMPLE
+ ____                    __      __
+/\  _`\                 /\ \  __/\ \__
+\ \ \/\_\  _ __    __   \_\ \/\_\ \ ,_\   ____
+ \ \ \/_/_/\`'__\/'__`\ /'_` \/\ \ \ \/  /',__\
+  \ \ \L\ \ \ \//\  __//\ \L\ \ \ \ \ \_/\__, `\
+   \ \____/\ \_\\ \____\ \___,_\ \_\ \__\/\____/
+    \/___/  \/_/ \/____/\/__,_ /\/_/\/__/\/___/
+#+END_EXAMPLE
+- Theme modified from [[https://johno.com/][John Otander's ]]
+  [[https://github.com/markdowncss/retro][Retro]]
+
+- Error pages modified from [[https://denv.it/][Denys Vitali's]]
+  [[https://github.com/denysvitali/nginx-error-pages][nginx-error-pages]]
