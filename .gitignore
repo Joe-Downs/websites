@@ -1,0 +1,11 @@
+# Ignore all HTML, except for the specific ones I've created
+*.html
+!template.html
+!footer.html
+
+# Ignore markdown files (except for the README)
+*.md
+!README.md
+
+# Ignore gemtext files
+*.gmi
