@@ -12,7 +12,7 @@ html_out_css_template = -t html -c css/retro.css --template=template.html --incl
 	title=`jq -r '."$<"' titles.json`; \
 	pandoc $< $(html_out_css_template) --metadata "title=$$title" | $(html_sed) > $@
 
-$(html_pages) : template.html footer.htmlz
+$(html_pages) : template.html footer.html
 
 html : $(html_pages)
 
