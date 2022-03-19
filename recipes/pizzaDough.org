@@ -1,0 +1,70 @@
+* Misc Notes
+  1 "package" of yeast = 7 g
+  We need 16-inch (201 in^2) and 12-inch pizzas (452 in^2)
+  Total: 653 in^2
+* Bobby Flay's Dough
+  https://www.foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe-1921714
+  These amounts went into the bowl at once:
+  | Ingredient  | Volume | Weight (g) |
+  |-------------+--------+------------|
+  | AP Flour    | 4 cups |      512.5 |
+  | Sugar       | 1 tsp  |          4 |
+  | Kosher Salt | 2 tsp  |       10.5 |
+  |             |        |            |
+  AP = All-purpose
+** Notes
+   Using active dry yeast instead of instant dry yeast. We're activating the
+   yeast in the 1.5 cups of warm water (120 F, put in microwave for 30 s on
+   high) with 2.25 tsp of yeast and 1 tsp of sugar. We waited for the yeast to
+   bubble, which took 7 minutes. The dry was whisked together, and the yeast,
+   water, and 2 T of oil was added.
+   - On dough hook in mixer
+   - 1 T of olive oil in bowl, wiped out with paper towel
+   - Bowl sprayed with PAM
+   - Bowl covered with foil
+   - Final mass: 895.5 g
+   - Left on oven (oven was off)
+   - Checked after 1 hour
+   - Spread on pans after 2h50m
+   - Split into 600g and 225g
+   - Oven preheated to 425 F
+   - Large on bottom; small on top
+   - Switched after 10 mins; 22 mins
+   - Taken out after 28 mins
+* Reciplex's "Ohio-Style Pizza"
+  https://reciplex.com/ohio-style-pizza
+** Copy of Their Recipe
+   Makes two 14-inch pizzas (615.75 in^2 of dough)
+*** Dough
+   1 package of yeast
+   1 cup water
+   1 heaping tablespoon sugar
+   3 tablespoons softened butter
+   1 1/2 teaspoons salt
+   2 1/2 cups all-purpose flour
+   1. Measure one cup of cold water and then heat it to 110-115 degrees. This
+      takes 45 seconds – 1 minute in the microwave and I check the temp with a
+      meat thermometer.
+   2. Pour the water in a large mixing bowl and add the package of yeast and the
+      sugar. Let it sit for 5 minutes.
+   3. Mix in the butter, salt, and flour and knead until the dough is smooth
+      (3-5 min.)
+   4. Cover a bowl in olive oil spray, put the dough in it, cover with a towel,
+      and let it rise in a place protected from drafts for about an hour.
+   5. Punch it down and let it rise again.
+   6. Roll it out evenly on a 14-inch pan (coated with olive oil) or a pizza
+      peel (coated with flour).
+** Our Recipe
+   Multiply their recipe by 1.06 (sorta)
+   7.5 g yeast
+   >=1 cup water
+   2 tablespoon sugar
+   3 1/3 tablespoons softened butter
+   1 2/3 teaspoons salt
+   2 2/3 cups bread flour
+** Notes
+   - We're using mozzarella and parmesan, not provolone
+   - We're using unsalted butter (the recipe did not specify)
+   - We prebaked the crust at 450 F for ~5 minutes
+     - It shrunk, so we rolled it out on the cutting board until it was closer
+       to the edge of the pan
