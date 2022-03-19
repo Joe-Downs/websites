@@ -192,6 +192,7 @@ body {
   margin: 6rem auto 1rem;
   max-width: 60rem;
   padding: 5%;
+  padding-bottom: 0;
 }
 
 pre {
@@ -201,4 +202,19 @@ pre {
 blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
+}
+
+footer {
+  padding-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
+
+footer p{
+    font-size: .9rem;
+    text-align: left;
+    vertical-align: middle;
+    left-padding: 5%;
+    right-padding: 5%;
 }
