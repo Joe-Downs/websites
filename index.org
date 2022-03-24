@@ -19,11 +19,15 @@
     \___)=(___/
 #+END_EXAMPLE
 
-* Welcome to my Website!
-  A friend of mine introduced me to Gemini and it's really neat! ([[gemini://gemini.gogobe.be][This site is
-  in Gemini]]) I've had lots of fun tinkering with it. It spurred me on to
-  actually populate my HTTP website, so she gets a huge shoutout. (Hi Mallow!
-  <3)
+* Hi! Hallo! Annyeong! Hei! Olá!
+  Welcome to my little corner of the [[https://xkcd.com/181/][blagoblag]]! A friend of mine introduced me
+  to Gemini and it's really neat! ([[gemini://gemini.gogobe.be][This site is in Gemini]]) I've had lots of fun
+  tinkering with it. It spurred me on to actually populate my HTTP website, so
+  she gets a huge shoutout. (Hi Mallow!  <3)
+
+  (Yes, I know it's Romanized and not Hangul. Unfortunately, the Hangul is not
+  the same width as the rest of my monospace characters, and I just couldn't
+  with that, man... Maybe I'll be able to fix it later.)
 
 My favorite things:
 - Mallow
