@@ -4,7 +4,8 @@
 
 pre,
 code {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+    font-family: Menlo, Monaco, "Courier New", monospace;
+    font-size: min(1.75vw, 20px);
 }
 
 pre {
