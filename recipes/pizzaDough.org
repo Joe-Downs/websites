@@ -68,3 +68,23 @@
    - We prebaked the crust at 450 F for ~5 minutes
      - It shrunk, so we rolled it out on the cutting board until it was closer
        to the edge of the pan
+* First's "Thick and Chewy Pizza Dough"
+  | 1 pkg   | active dry yeast |
+  | 1 c     | lukewarm water   |
+  | 3 1/4 c | bread flour      |
+  | 1 tsp   | salt             |
+  Makes 1.25 lbs (or ~566 g). We want ~700 grams, so we'll multiply everything
+  by ~1.23, giving us:
+  | 9 g       | active dry yeast |
+  | 1 1/4 c   | lukewarm water   |
+  | 4 c       | bread flour      |
+  | 1 1/4 tsp | salt             |
+  - Dissolve the yeast in the lukewarm water
+  - Combine ~2/3 the flour and the salt and stir in the yeast mixture
+  - Knead for about 10 minutes, working in more flour so that the dough is still
+    soft but nolonger sticky
+  - Put the dough in an oiled bowl and cover
+  - Let the dough rise until doubled in size, 45 to 60 mins
+  - Punch down and repeat
+  - Let stand 10 mins before shaping
+
