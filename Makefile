@@ -5,7 +5,7 @@ all : html md gmi
 
 # Replace any ./*.org links with ./*.html links
 html_sed = sed -E 's/(\.\/\S*\.)org/\1html/'
-html_pages = index.html about.html tao.html credit.html recipes/pizzaDough.html
+html_pages = index.html about.html tao.html credit.html recipes/pizzaDough.html blag/index.html blag/lfs-journey.html
 html_out_css_template = -t html -c /css/retro.css --template=template.html --include-after-body=footer.html
 
 .org.html :
