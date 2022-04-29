@@ -3,5 +3,7 @@
     "about.org" : "About Me",
     "tao.org" : "The Tao of Programming",
     "credit.org" : "Credits",
-    "recipes/pizzaDough.org" : "Pizza Dough Notes"
+    "recipes/pizzaDough.org" : "Pizza Dough Notes",
+    "blag/index.org" : "My Blag",
+    "blag/lfs-journey.org" : "The LFS Journey"
 }
