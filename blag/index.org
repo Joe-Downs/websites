@@ -1,0 +1,14 @@
+#+BEGIN_EXAMPLE
+___  ___       ______ _
+|  \/  |       | ___ \ |
+| .  . |_   _  | |_/ / | __ _  __ _
+| |\/| | | | | | ___ \ |/ _` |/ _` |
+| |  | | |_| | | |_/ / | (_| | (_| |
+\_|  |_/\__, | \____/|_|\__,_|\__, |
+         __/ |                 __/ |
+        |___/                 |___/
+#+END_EXAMPLE
+* The Blag
+  Welcome to my little [[https://xkcd.com/181][blag]]. Here, I'll keep some notes, thoughts, and feelings
+  that I want to write down, but don't need a dedicated page. I might talk about
+  recipes I try, or different things I'm experimenting with in Comp Sci.
