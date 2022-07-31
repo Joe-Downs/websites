@@ -1,0 +1,17 @@
+#+BEGIN_EXAMPLE
+______          _
+| ___ \        (_)
+| |_/ /___  ___ _ _ __   ___  ___
+|    // _ \/ __| | '_ \ / _ \/ __|
+| |\ \  __/ (__| | |_) |  __/\__ \
+\_| \_\___|\___|_| .__/ \___||___/
+		 | |
+		 |_|
+#+END_EXAMPLE
+
+* What's This?
+  Recipes. Didn't you read the title?
+
+  This us a place I hope to store recipes that I've gotten from various sources,
+  and make them easily accessible in a digital format for myself and others I
+  may want to share them with.
