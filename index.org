@@ -37,6 +37,7 @@ My favorite things:
 ** Directory
 - [[./about.org][About Me]]
 - [[./tao.org][The Tao of Programming]]
+- [[./recipes/index.org][Recipes]]
 
 ** About This Site
 *** What the heck is that name?
