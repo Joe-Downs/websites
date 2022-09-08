@@ -6,13 +6,13 @@ all : html md gmi
 # Replace any ./*.org links with ./*.html links
 html_sed = sed -E 's/(\.\/\S*\.)org/\1html/'
 html_pages = index.html about.html tao.html credit.html recipes/pizzaDough.html blag/index.html blag/lfs-journey.html
-html_out_css_template = -t html -c /css/retro.css --template=template.html --include-after-body=footer.html
+html_out_css_template = -t html -c /css/retro.css --template=./src/template.html --include-after-body=./src/footer.html
 
 .org.html :
 	title=`jq -r '."$<"' titles.json`; \
 	pandoc $< $(html_out_css_template) --metadata "title=$$title" | $(html_sed) > $@
 
-$(html_pages) : template.html footer.html titles.json
+$(html_pages) : src/template.html src/footer.html titles.json
 
 html : $(html_pages)
 
