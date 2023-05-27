@@ -1,3 +1,6 @@
+# Ignore copied CSS files in web docroots
+*/css
+
 # Ignore all HTML, except for the specific ones I've created
 *.html
 !template.html
